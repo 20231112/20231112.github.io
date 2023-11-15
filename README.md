@@ -1,3 +1,3 @@
 # 20231112.github.io
 
-アクセス解析をする意思はございません。
+I have no intention of access analysis.

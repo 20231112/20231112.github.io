@@ -6,8 +6,15 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
-    <lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://20231112.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>chat</title>
+      <link>https://20231112.github.io/apps/no1/</link>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://20231112.github.io/apps/no1/</guid>
+      <description>main text</description>
+    </item>
     <item>
       <title>test</title>
       <link>https://20231112.github.io/-/no1/</link>

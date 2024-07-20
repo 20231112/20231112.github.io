@@ -15,5 +15,12 @@
       <guid>https://20231112.github.io/apps/no1/</guid>
       <description>main text</description>
     </item>
+    <item>
+      <title>Tool interface</title>
+      <link>https://20231112.github.io/apps/no2/</link>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://20231112.github.io/apps/no2/</guid>
+      <description>main text</description>
+    </item>
   </channel>
 </rss>

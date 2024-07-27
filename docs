@@ -1,0 +1,20 @@
+
+  
+<style type="text/css"> 
+.vertical-middle{
+  display: inline-block; /* インライン要素にすることで横に回り込む */
+  vertical-align: middle; /* 上下中央に寄せる */ 
+}
+
+</style>
+
+
+<p class="vertical-middle">
+
+<h1>
+<a href="https://delightful-ocean-0d6a69c00.5.azurestaticapps.net/" target="_blank">こっち</a>に移行しました。<script async src="https://www.googletagmanager.com/gtag/js?id=G-X53RDCGGD2"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-X53RDCGGD2');</script>
+</h1>  
+
+</p>
+
+
